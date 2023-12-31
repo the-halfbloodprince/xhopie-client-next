@@ -2,6 +2,11 @@
   "name": "xhopie-client-next",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Manish Kumar Das",
+    "email": "ammanishkumardas@gmail.com",
+    "url": "https://github.com/the-halfbloodprince"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
