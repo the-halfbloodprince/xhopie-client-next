@@ -2,6 +2,7 @@
   "name": "xhopie-client-next",
   "version": "0.1.0",
   "private": true,
+  "description": "Xhopie's Client App built with NextJS and TypeScript",
   "author": {
     "name": "Manish Kumar Das",
     "email": "ammanishkumardas@gmail.com",
